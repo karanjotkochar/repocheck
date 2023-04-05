@@ -1,0 +1,12 @@
+ Volume in drive C is OS
+ Volume Serial Number is 9E3A-621D
+
+ Directory of C:\Details\Udemy\test_repo_check
+
+2023-04-05  12:13 AM    <DIR>          .
+2023-04-05  12:07 AM    <DIR>          ..
+2023-04-05  12:08 AM               350 index.html
+2023-04-05  12:08 AM               400 test1.txt
+2023-04-05  12:13 AM                 0 test3.txt
+               3 File(s)            750 bytes
+               2 Dir(s)  402,838,560,768 bytes free
